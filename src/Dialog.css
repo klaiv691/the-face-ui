@@ -1,0 +1,27 @@
+.dialog {
+  border: 1px solid #ccc;
+  padding: 10px;
+  max-width: 300px;
+}
+
+.dialog-heading {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.dialog-textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.dialog-button {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.dialog-button:hover {
+  background-color: #2980b9;
+}
